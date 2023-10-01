@@ -4,7 +4,7 @@ I want the topics to be advanced and involve a lot of maths in them.
 [
   {
     'name': <name of idea>,
-     'description': <idea>
+     'description': "<idea>"
   },
   ...
 ]
