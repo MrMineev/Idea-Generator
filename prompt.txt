@@ -1,0 +1,13 @@
+I want to create a new blog post about mathematics. I am also a programmer, so i want to do a lot of animations. Provide me such ideas for a post and the animations i can do to support my post. List me 3 ideas in the following format.
+I want the topics to be advanced and involve a lot of maths in them.
+
+[
+  {
+    'name': <name of idea>,
+     'description': <idea>
+  },
+  ...
+]
+
+Make the <name of idea> be only one word or two words long.
+
